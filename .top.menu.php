@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Home", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Categories", 
+		"/catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Laptops", 
+		"/catalog/laptops/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Smartphons", 
+		"/catalog/smartphones/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Cameras", 
+		"/catalog/cameras/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Accessories", 
+		"/catalog/accessories/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
